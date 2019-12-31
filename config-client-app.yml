@@ -1,5 +1,5 @@
 # Put application-specific config here (application name: client-config-app)
 some:
-  property: changed some property 2
+  property: changed some property 3
   other:
-    property: changed other property 2
+    property: changed other property 3
