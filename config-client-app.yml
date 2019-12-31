@@ -1,3 +1,5 @@
 # Put application-specific config here (application name: client-config-app)
 some:
-  property: app specific overridden value
+  property: coffe
+  other:
+    property: is good
